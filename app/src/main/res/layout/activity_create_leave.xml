@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:background="#F1F1F1"
+        android:layout_height="match_parent">
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_10"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_20"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="请假时间"
+                    />
+                <TextView
+                    android:id="@+id/tv_temperature"
+                    android:text=""
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:inputType="numberDecimal"
+                    android:hint="请选择请假时间"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+
+
+
+
+
+
+
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+            <TableRow
+                android:gravity="top"
+                android:orientation="horizontal">
+                <EditText
+                    android:gravity="top"
+                    android:id="@+id/tv_conditions"
+                    android:text=""
+                    android:paddingLeft="@dimen/dp_20"
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入请假原因..."
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="100dp" />
+
+            </TableRow>
+        </TableLayout>
+
+
+
+        <com.allen.library.SuperButton
+            android:id="@+id/btn_login"
+            android:layout_marginTop="@dimen/dp_40"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dp_20"
+            android:text="确认请假"
+            android:textColor="@color/white"
+            app:sCornersRadius="2dp"
+            android:textSize="16sp"
+            app:sSelectorNormalColor="@color/blue_30"
+            app:sSelectorPressedColor="@color/gray_alpha_80"
+            app:sUseSelector="true" />
+    </LinearLayout>
+
+
+</ScrollView>
+
+

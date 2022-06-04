@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.wuhenzhizao.titlebar.widget.CommonTitleBar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:fillStatusBar="true"
+        app:statusBarColor="#2AA3FA"
+        app:centerText="公告"
+        app:titleBarColor="#2AA3FA"
+        app:centerType="textView"
+        app:leftDrawablePadding="0dp"
+        app:leftText=""
+        app:centerTextColor="@color/white"
+        app:rightText=""
+        app:rightType="textView"
+        app:leftType="textView" />
+    <cn.droidlover.xrecyclerview.XRecyclerContentLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/xRecycler"
+        android:background="#F1F1F1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:recyclerBackgroundColor="@color/white"
+        app:recyclerScrollbarNone="true"
+        app:recyclerScrollbarStyle="outsideOverlay" />
+
+    <include layout="@layout/empty_loading_layout"/>
+
+</LinearLayout>

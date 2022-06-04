@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--<com.wuhenzhizao.titlebar.widget.CommonTitleBar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:centerText=""
+        app:centerTextColor="@color/white"
+        app:centerType="textView"
+        app:fillStatusBar="true"
+        app:leftDrawable="@drawable/ic_arrow_white_24dp"
+        app:leftDrawablePadding="0dp"
+        app:leftTextColor="@color/white"
+        app:leftType="textView"
+        app:rightTextColor="@color/white"
+        app:rightType="textView"
+        app:statusBarColor="@color/colorPrimary"
+        app:statusBarMode="light"
+        app:titleBarColor="@color/colorPrimary"/>-->
+
+    <com.wuhenzhizao.titlebar.widget.CommonTitleBar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:fillStatusBar="true"
+        app:statusBarColor="#2AA3FA"
+            app:centerText=""
+        app:titleBarColor="#2AA3FA"
+        app:centerType="textView"
+        app:leftDrawable="@drawable/left_jt"
+        app:leftDrawablePadding="0dp"
+        app:leftText=""
+        app:centerTextColor="@color/white"
+        app:rightText=""
+        app:rightType="textView"
+        app:leftType="textView" />
+    <com.wuhenzhizao.titlebar.widget.CommonTitleBar
+        android:id="@+id/titlebars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:centerText=""
+        app:fillStatusBar="true"
+        app:statusBarColor="#2AA3FA"
+        app:centerTextColor="@color/white"
+        app:titleBarColor="#2AA3FA"
+        android:visibility="gone"
+        app:centerSearchRightType="delete"
+        app:leftDrawable="@drawable/comm_titlebar_back_normal"
+        app:leftDrawablePadding="0dp"
+        app:leftText=""
+        app:rightText=""
+        app:centerType="searchView"
+
+        app:leftType="textView" />
+    <include layout="@layout/empty_loading_layout"/>
+    <LinearLayout
+        android:id="@+id/contentLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+
+
+
+
+    </LinearLayout>
+</LinearLayout>

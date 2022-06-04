@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\qmui_icon_topbar_back.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable-anydpi-v21\\qmui_icon_topbar_back.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_arrow_white_24dp.xml",
+        "source": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_arrow_white_24dp.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_plus.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_plus.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_download.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_download.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_checked.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_checked.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_dark.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_dark.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_light.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_light.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_normal.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_normal.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_delete.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_delete.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_arrow_down.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_arrow_down.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_camera.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_camera.png"
+    }
+]

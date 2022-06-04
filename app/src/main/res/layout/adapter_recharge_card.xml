@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:paddingTop="7dp"
+    android:paddingRight="@dimen/dp_10"
+    android:paddingLeft="@dimen/dp_10"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_price"
+            android:layout_weight="1"
+            android:text=""
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/black_alpha_60"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <View
+        android:background="@color/line"
+        android:layout_marginTop="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"/>
+</LinearLayout>

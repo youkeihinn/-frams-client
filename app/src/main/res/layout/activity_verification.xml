@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/dp_25"
+    android:paddingRight="@dimen/dp_25"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_marginTop="@dimen/dp_50"
+        android:layout_width="wrap_content"
+        android:text="请输入4位验证码"
+        android:textColor="@color/black"
+        android:textSize="28sp"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="我们已发送4位数验证码到您的手机"
+            android:textColor="@color/font_normal"
+            android:textSize="15sp"
+            android:layout_height="wrap_content" />
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="@dimen/dp_30"
+
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_height="wrap_content">
+
+
+        <EditText
+            android:id="@+id/et_phone"
+            android:textCursorDrawable="@null"
+            android:paddingLeft="5dp"
+            android:inputType="number"
+            android:background="@drawable/view_border"
+            android:layout_weight="1"
+            android:hint="验证码"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textColorHint="@color/text_disabled"
+            android:layout_width="0dp"
+            android:layout_height="45dp" />
+    </LinearLayout>
+
+    <com.allen.library.SuperButton
+        android:id="@+id/btn_ver"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="验证"
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        app:sCornersRadius="2dp"
+        app:sSelectorNormalColor="@color/C54B178"
+        app:sSelectorPressedColor="@color/gray_alpha_80"
+        app:sUseSelector="true" />
+
+
+</LinearLayout>

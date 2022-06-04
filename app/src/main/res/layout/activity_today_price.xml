@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+    <TextView
+        android:padding="8dp"
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:text=""
+        android:layout_alignParentRight="true"
+        android:drawableRight="@mipmap/xjt"
+        android:gravity="center_vertical"
+        android:drawablePadding="@dimen/dp_4"
+        android:layout_height="wrap_content" />
+    <View
+        android:layout_below="@+id/time"
+        android:layout_width="match_parent"
+        android:background="@color/line"
+        android:layout_height="8dp"/>
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/time"
+        android:id="@+id/bg"
+        android:layout_marginLeft="20dp"
+        android:layout_width="100dp"
+        android:background="@mipmap/jinbi"
+        android:layout_height="100dp" />
+    <TextView
+        android:layout_below="@+id/bg"
+        android:layout_width="match_parent"
+        android:textSize="25sp"
+        android:id="@+id/rrot"
+        android:text="当天流水"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_below="@+id/rrot"
+        android:id="@+id/price"
+        android:layout_width="match_parent"
+
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:text="￥：0     "
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:layout_height="wrap_content" />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tamsiree.RxTool:RxUI:2.3.9@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RxUI-2.3.9.aar/4c0aaea03997ddede0eac314775b7679/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RxUI-2.3.9.aar/4c0aaea03997ddede0eac314775b7679/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RxUI-2.3.9.aar/4c0aaea03997ddede0eac314775b7679/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tamsiree.RxTool/RxUI/2.3.9/7f9ef0e3cae1a52bdaeb8c6215fc74aa43ce0839/RxUI-2.3.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

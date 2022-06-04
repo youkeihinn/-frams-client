@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.youth.banner.Banner
+        android:id="@+id/banner"
+        app:image_scale_type="fit_xy"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/dp_10"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:id="@+id/repair"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:background="@mipmap/fen_yuyue"
+                android:layout_width="40dp"
+                android:layout_height="40dp" />
+
+            <TextView
+                android:layout_marginTop="@dimen/dp_8"
+                android:layout_width="wrap_content"
+                android:textColor="#4d4d4d"
+                android:text="预约维修"
+                android:textSize="14sp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/roadRescue"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:background="@mipmap/fen_jiuyuan"
+                android:layout_width="@dimen/dp_40"
+                android:layout_height="@dimen/dp_40" />
+
+            <TextView
+                android:layout_marginTop="@dimen/dp_8"
+                android:layout_width="wrap_content"
+                android:textColor="#4d4d4d"
+                android:text="预约救援"
+                android:textSize="14sp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/usedCar"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:background="@mipmap/fen_zhengche"
+                android:layout_width="40dp"
+                android:layout_height="40dp" />
+
+            <TextView
+                android:layout_marginTop="@dimen/dp_8"
+                android:layout_width="wrap_content"
+                android:textColor="#4d4d4d"
+                android:text="二手车"
+                android:textSize="14sp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/recruit"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:background="@mipmap/zp"
+                android:layout_width="40dp"
+                android:layout_height="40dp" />
+
+            <TextView
+                android:layout_marginTop="@dimen/dp_8"
+                android:layout_width="wrap_content"
+                android:textColor="#4d4d4d"
+                android:text="驾驶员招聘"
+                android:textSize="14sp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/integral"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:background="@mipmap/jf"
+                android:layout_width="41dp"
+                android:layout_height="41dp" />
+
+            <TextView
+                android:layout_marginTop="7dp"
+                android:layout_width="wrap_content"
+                android:textColor="#4d4d4d"
+                android:text="积分商城"
+                android:textSize="14sp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:layout_marginTop="@dimen/dp_15"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:text="头条推荐"
+        android:layout_marginLeft="5dp"
+        android:layout_height="wrap_content" />
+    <View
+
+        android:background="@color/line"
+        android:layout_width="match_parent"
+        android:layout_height="0.2dp"/>
+</LinearLayout>

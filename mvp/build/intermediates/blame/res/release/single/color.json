@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_chip_close_icon_tint.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_tabs_ripple_color.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_tabs_ripple_color.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\qmui_s_switch_text_color.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\color\\qmui_s_switch_text_color.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_ripple_color.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_btn_ripple_color.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_tabs_legacy_text_color_selector.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\design_error.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\qmui_btn_blue_text.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\color\\qmui_btn_blue_text.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_chip_ripple_color.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_chip_ripple_color.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_text_btn_text_color_selector.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_tabs_colored_ripple_color.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_tabs_colored_ripple_color.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_text_btn_ripple_color.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_tabs_icon_color_selector_colored.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_tabs_icon_color_selector_colored.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_stroke_color_selector.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_btn_stroke_color_selector.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_bottom_nav_item_tint.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_bottom_nav_item_tint.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\qmui_s_link_color.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\color\\qmui_s_link_color.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\qmui_topbar_text_color.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\color\\qmui_topbar_text_color.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_bg_color_selector.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_tabs_icon_color_selector.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_tabs_icon_color_selector.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\qmui_btn_blue_border.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\color\\qmui_btn_blue_border.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_bottom_nav_colored_item_tint.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_bottom_nav_colored_item_tint.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_fab_ripple_color.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_fab_ripple_color.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\qmui_btn_blue_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\color\\qmui_btn_blue_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\qmui_s_transparent.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\color\\qmui_s_transparent.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_text_color_selector.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\comm_titlebar_text_selector.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\titlebar-1.1.4.aar\\f7ac0dac05f10aa12e74a5ba6573b5ac\\res\\color\\comm_titlebar_text_selector.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\qmui_s_list_item_text_color.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\color\\qmui_s_list_item_text_color.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_chip_background_color.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_chip_background_color.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\color\\mtrl_chip_text_color.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\color\\mtrl_chip_text_color.xml"
+    }
+]

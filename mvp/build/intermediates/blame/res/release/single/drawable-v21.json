@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\qmui_s_list_item_bg_with_border_bottom_inset_left.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable-v21\\qmui_s_list_item_bg_with_border_bottom_inset_left.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\qmui_s_list_item_bg_with_border_double.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable-v21\\qmui_s_list_item_bg_with_border_double.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\qmui_s_list_item_bg_with_border_top_inset_left.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable-v21\\qmui_s_list_item_bg_with_border_top_inset_left.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\qmui_s_list_item_bg_with_border_bottom_inset.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable-v21\\qmui_s_list_item_bg_with_border_bottom_inset.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\qmui_s_list_item_bg_with_border_none.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable-v21\\qmui_s_list_item_bg_with_border_none.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\qmui_s_list_item_bg_with_border_top.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable-v21\\qmui_s_list_item_bg_with_border_top.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\qmui_s_list_item_bg_with_border_bottom.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable-v21\\qmui_s_list_item_bg_with_border_bottom.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\selector_white.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\SuperTextView-2.2.4.aar\\0a17aa5018084dd135798eb7c8f25926\\res\\drawable-v21\\selector_white.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\3315f3d43fb379b67a94002cbd66c16e\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

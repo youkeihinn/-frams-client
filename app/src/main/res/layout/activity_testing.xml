@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:background="#F1F1F1"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_marginLeft="@dimen/dp_10"
+            android:layout_width="match_parent"
+            android:textSize="18sp"
+            android:text="基本信息"
+            android:layout_height="wrap_content"/>
+        <TableLayout
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="姓名"
+                    />
+                <TextView
+                    android:id="@+id/tv_name"
+                    android:text=""
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入姓名"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <TableLayout
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="身份证号"
+                    />
+                <TextView
+                    android:id="@+id/tv_cardNo"
+                    android:text=""
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入身份证号"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+
+        <TableLayout
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="家庭住址"
+                    />
+                <TextView
+                    android:id="@+id/tv_address"
+                    android:text=""
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入家庭住址"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <TableLayout
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="联系电话"
+                    />
+                <TextView
+                    android:id="@+id/tv_tel"
+                    android:text=""
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入联系电话"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <TableLayout
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="预约时间"
+                    />
+                <TextView
+                    android:id="@+id/tv_time"
+                    android:text=""
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入想要预约的时间"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <TableLayout
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="是否发热"
+                    />
+                <TextView
+                    android:id="@+id/tv_fever"
+                    android:text=""
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="家庭成员是否被隔离"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+
+        <TableLayout
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="是否咳嗽"
+                    />
+                <TextView
+                    android:id="@+id/tv_cough"
+                    android:text=""
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="是否咳嗽"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+
+
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+            <TableRow
+                android:gravity="top"
+                android:orientation="horizontal">
+                <EditText
+                    android:gravity="top"
+                    android:id="@+id/tv_mark"
+                    android:text=""
+                    android:paddingLeft="@dimen/dp_20"
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入是否有其他症状..."
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="100dp" />
+
+            </TableRow>
+
+        </TableLayout>
+        <TextView
+            android:layout_marginLeft="@dimen/dp_10"
+            android:layout_width="match_parent"
+            android:textSize="18sp"
+            android:text="医院信息"
+            android:layout_height="wrap_content"/>
+        <TableLayout
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="医院"
+                    />
+                <TextView
+                    android:id="@+id/tv_hospital"
+                    android:text=""
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <TableLayout
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="医生"
+                    />
+                <TextView
+                    android:id="@+id/tv_doctor"
+                    android:text=""
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <TableLayout
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="医生电话"
+                    />
+                <TextView
+                    android:id="@+id/tv_doctorTel"
+                    android:text=""
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+            <TableRow
+                android:gravity="top"
+                android:orientation="horizontal">
+                <EditText
+                    android:gravity="top"
+                    android:id="@+id/tv_notice"
+                    android:text=""
+                    android:paddingLeft="@dimen/dp_20"
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="100dp" />
+
+            </TableRow>
+
+        </TableLayout>
+        <TextView
+            android:layout_marginLeft="@dimen/dp_10"
+            android:layout_width="match_parent"
+            android:textSize="18sp"
+            android:text="报告"
+            android:layout_height="wrap_content"/>
+       <ImageView
+           android:id="@+id/pic"
+           android:scaleType="fitXY"
+           android:layout_width="match_parent"
+           android:layout_height="200dp"/>
+    </LinearLayout>
+
+
+</ScrollView>
+
+

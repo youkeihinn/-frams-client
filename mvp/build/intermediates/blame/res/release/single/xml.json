@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\xml\\bga_photo_picker_file_paths.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\xml\\bga_photo_picker_file_paths.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\xml\\util_code_provider_paths.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\utilcode-1.25.9.aar\\9f3c4479db89ac7979bff56ead57d5cd\\res\\xml\\util_code_provider_paths.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\xml\\file_paths.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxKit-2.3.9.aar\\96054fe5f393826190ff39bed507a4d8\\res\\xml\\file_paths.xml"
+    }
+]

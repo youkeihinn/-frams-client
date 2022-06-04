@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="@dimen/dp_10"
+    android:paddingBottom="@dimen/dp_10"
+    android:layout_marginLeft="@dimen/dp_10"
+    android:layout_marginRight="@dimen/dp_10"
+    android:layout_marginTop="@dimen/dp_10"
+    android:background="@drawable/layout_border"
+    android:layout_height="wrap_content">
+    <LinearLayout
+
+
+        android:orientation="horizontal"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/time"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:textSize="14sp"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/status"
+            android:textSize="14sp"
+            android:text=""
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+    <View
+        android:layout_marginTop="@dimen/dp_4"
+        android:layout_width="match_parent"
+        android:background="@color/line"
+        android:layout_height="1dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/dp_10"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/orderNo"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textSize="16sp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tv_cph"
+            android:textSize="14sp"
+            android:text=""
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_cx"
+            android:maxLines="1"
+            android:drawableLeft="@mipmap/bq"
+            android:drawablePadding="5dp"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:text=""
+            android:ellipsize="end"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tv_pp"
+            android:maxLines="1"
+            android:drawablePadding="5dp"
+            android:drawableLeft="@mipmap/ca_type"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:text=""
+            android:ellipsize="end"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+    <View
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:background="@color/line"
+        android:layout_height="1dp"/>
+
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/dp_10"
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="快速联系"
+            android:paddingRight="@dimen/dp_30"
+            android:paddingLeft="@dimen/dp_30"
+            android:paddingTop="@dimen/dp_10"
+            android:paddingBottom="@dimen/dp_10"
+            android:background="@color/C1296db"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:layout_marginRight="@dimen/dp_20"
+            />
+
+        <TextView
+            android:id="@+id/confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="确认完成"
+            android:paddingRight="@dimen/dp_30"
+            android:paddingLeft="@dimen/dp_30"
+            android:paddingTop="@dimen/dp_10"
+            android:paddingBottom="@dimen/dp_10"
+            android:background="@color/C1296db"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:layout_marginRight="@dimen/dp_20"
+            />
+    </LinearLayout>
+</LinearLayout>

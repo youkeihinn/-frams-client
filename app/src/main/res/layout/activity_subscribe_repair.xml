@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:background="#F1F1F1"
+        android:layout_height="match_parent">
+
+
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_10"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_20"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="车牌号"
+                    />
+                <EditText
+                    android:id="@+id/tv_cph"
+                    android:text=""
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入车牌号"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+
+
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_20"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="手机号"
+                    />
+                <EditText
+                    android:id="@+id/tv_phone"
+                    android:text=""
+                    android:maxLength="11"
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入手机号"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_20"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text=" 姓  名 "
+                    />
+                <EditText
+                    android:id="@+id/tv_name"
+                    android:text=""
+                    android:maxLength="11"
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入姓名"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_10"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_10"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="车辆类型"
+                    />
+                <TextView
+                    android:id="@+id/tv_carType"
+                    android:text=""
+                    android:maxLength="11"
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请选择车辆类型"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_20"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text=" 品  牌 "
+                    />
+                <EditText
+                    android:id="@+id/tv_pp"
+                    android:text=""
+                    android:maxLength="11"
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入品牌"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_20"
+                    android:paddingRight="@dimen/dp_20"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text=" 车  型 "
+                    />
+                <EditText
+                    android:id="@+id/tv_cx"
+                    android:text=""
+                    android:maxLength="11"
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入车型"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_10"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text=" 发 动 机  "
+                    />
+                <EditText
+                    android:id="@+id/tv_fdj"
+                    android:text=""
+                    android:maxLength="11"
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入发动机型号"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_10"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="  车 架 号 "
+                    />
+                <EditText
+                    android:id="@+id/tv_cjh"
+                    android:text=""
+                    android:maxLength="11"
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入车架号"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow android:orientation="horizontal">
+                <TextView
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_10"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="行驶里程"
+                    />
+                <EditText
+                    android:id="@+id/tv_xslc"
+                    android:text=""
+                    android:maxLength="11"
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入行驶里程数"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+            <TableRow
+                android:gravity="top"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_marginTop="@dimen/dp_4"
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_10"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="预约内容"
+                    />
+
+                <LinearLayout
+                    android:id="@+id/checkBox"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    >
+                    <CheckBox
+                        android:background="@drawable/ckuckbox"
+                        android:layout_width="wrap_content"
+                        android:text="预约二级保养"
+                        android:layout_height="wrap_content" />
+                    <CheckBox android:background="@drawable/ckuckbox"
+                        android:layout_width="wrap_content"
+                        android:text="预约保轮"
+                        android:layout_height="wrap_content" />
+                    <CheckBox
+                        android:background="@drawable/ckuckbox"
+                        android:layout_width="wrap_content"
+                        android:text="预约保养"
+                        android:layout_height="wrap_content" />
+                    <CheckBox
+                        android:background="@drawable/ckuckbox"
+                        android:layout_width="wrap_content"
+                        android:text="预约车辆异响"
+                        android:layout_height="wrap_content" />
+                    <CheckBox
+                        android:background="@drawable/ckuckbox"
+                        android:layout_width="wrap_content"
+                        android:text="预约整体喷漆"
+                        android:layout_height="wrap_content" />
+                    <CheckBox
+                        android:background="@drawable/ckuckbox"
+                        android:layout_width="wrap_content"
+                        android:text="预约吃胎跑偏"
+                        android:layout_height="wrap_content" />
+                    <CheckBox
+                        android:background="@drawable/ckuckbox"
+                        android:layout_width="wrap_content"
+                        android:text="预约发动机烧机油"
+                        android:layout_height="wrap_content" />
+                    <CheckBox
+                        android:background="@drawable/ckuckbox"
+                        android:layout_width="wrap_content"
+                        android:text="预约车辆抖动"
+                        android:layout_height="wrap_content" />
+                    <CheckBox
+                        android:background="@drawable/ckuckbox"
+                        android:layout_width="wrap_content"
+                        android:text="其他"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+
+
+            </TableRow>
+        </TableLayout>
+
+
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+            <TableRow
+                android:gravity="top"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_marginTop="@dimen/dp_4"
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_10"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="预约服务要求"
+                    />
+
+                <EditText
+                    android:gravity="top"
+                    android:id="@+id/tv_fuyq"
+                    android:text=""
+
+                    android:textCursorDrawable="@null"
+                    android:layout_weight="1"
+                    android:hint="请输入预约服务要求"
+                    android:background="@null"
+                    android:textColor="@color/C484848"
+                    android:textSize="@dimen/text_size_13"
+                    android:layout_width="0dp"
+                    android:layout_height="100dp" />
+
+            </TableRow>
+        </TableLayout>
+
+
+
+        <TableLayout
+            android:layout_marginTop="@dimen/dp_1"
+            android:background="@color/white"
+            android:paddingTop="@dimen/dp_12"
+            android:paddingBottom="@dimen/dp_12"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+            <TableRow
+                android:gravity="top"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_marginTop="@dimen/dp_4"
+                    android:textSize="@dimen/text_size_16"
+                    android:layout_width="wrap_content"
+                    android:paddingLeft="@dimen/dp_10"
+                    android:paddingRight="@dimen/dp_10"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:text="车辆故障照片"
+                    />
+
+
+
+            </TableRow>
+
+            <cn.bingoogolapple.photopicker.widget.BGASortableNinePhotoLayout
+                android:id="@+id/snpl_moment_add_photos"
+                style="@style/WrapWrap"
+                android:layout_margin="10dp"
+                app:bga_snpl_deleteDrawable="@mipmap/bga_pp_ic_delete"
+                app:bga_snpl_deleteDrawableOverlapQuarter="false"
+                app:bga_snpl_editable="true"
+                app:bga_snpl_itemCornerRadius="0dp"
+                app:bga_snpl_itemSpanCount="3"
+                app:bga_snpl_itemWhiteSpacing="4dp"
+                app:bga_snpl_itemWidth="0dp"
+                app:bga_snpl_maxItemCount="9"
+                app:bga_snpl_otherWhiteSpacing="100dp"
+                app:bga_snpl_placeholderDrawable="@mipmap/bga_pp_ic_holder_light"
+                app:bga_snpl_plusDrawable="@mipmap/bga_pp_ic_plus"
+                app:bga_snpl_plusEnable="true"
+                app:bga_snpl_sortable="true" />
+        </TableLayout>
+
+
+
+        <com.allen.library.SuperButton
+            android:id="@+id/btn_login"
+            android:layout_marginTop="@dimen/dp_40"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dp_20"
+            android:text="保存"
+            android:textColor="@color/white"
+            app:sCornersRadius="2dp"
+            android:textSize="16sp"
+            app:sSelectorNormalColor="@color/blue_30"
+            app:sSelectorPressedColor="@color/gray_alpha_80"
+            app:sUseSelector="true" />
+    </LinearLayout>
+
+
+</ScrollView>
+
+

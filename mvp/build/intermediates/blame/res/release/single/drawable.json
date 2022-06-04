@@ -1,0 +1,606 @@
+[
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_list_item_bg_with_border_none.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_list_item_bg_with_border_none.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_circle_blue1.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_circle_blue1.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\_xpopup_shadow.9.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\xpopup-1.8.7.aar\\29ef31a7eb30b9d229e780f56b668fea\\res\\drawable\\_xpopup_shadow.9.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_round_transparent.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_round_transparent.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_small_round_blue1.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_small_round_blue1.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\bga_pp_rotate_progress_bar.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\drawable\\bga_pp_rotate_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\progress.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\SuperTextView-2.2.4.aar\\0a17aa5018084dd135798eb7c8f25926\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_switch_track_checked.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_switch_track_checked.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_small_round_blue_code_tool.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxFeature-2.3.9.aar\\c95be9569ad23ea18d2941f907739d01\\res\\drawable\\shape_small_round_blue_code_tool.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_switch_track.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_switch_track.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_gray_circle_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_gray_circle_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_border_top_pressed.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_border_top_pressed.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_border_top.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_border_top.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\bga_pp_shape_photo_folder_pw_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\drawable\\bga_pp_shape_photo_folder_pw_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\left_jt.png",
+        "source": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\src\\main\\res\\drawable\\left_jt.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\brvah_sample_footer_loading.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\BaseRecyclerViewAdapterHelper-2.9.40.aar\\6e91e4f6384b2e6f7676bf92c70c9362\\res\\drawable\\brvah_sample_footer_loading.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_border_top_inset_pressed.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_border_top_inset_pressed.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_border_bottom_pressed.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_border_bottom_pressed.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\3315f3d43fb379b67a94002cbd66c16e\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\brvah_sample_footer_loading_progress.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\BaseRecyclerViewAdapterHelper-2.9.40.aar\\6e91e4f6384b2e6f7676bf92c70c9362\\res\\drawable\\brvah_sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\3315f3d43fb379b67a94002cbd66c16e\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\ic_mtrl_chip_checked_circle.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_border_bottom_inset_left_pressed.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_border_bottom_inset_left_pressed.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\comm_titlebar_bottom_shadow.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\titlebar-1.1.4.aar\\f7ac0dac05f10aa12e74a5ba6573b5ac\\res\\drawable\\comm_titlebar_bottom_shadow.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_round_gray_bored.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_round_gray_bored.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_sign_count_view_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_sign_count_view_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_switch_track.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_switch_track.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\aa_dialog_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\aa_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_checkbox.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_checkbox.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_tip_dialog_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_tip_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_border_bottom_inset_pressed.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_border_bottom_inset_pressed.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_list_item_bg_with_border_double.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_list_item_bg_with_border_double.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_border_bottom.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_border_bottom.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_switch_thumb.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\wheel_val_holo.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\wheel_val_holo.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\bga_baseadapter_divider_shape.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-baseadapter-1.2.7.aar\\d8b32340e30a6d4867dc215c007edf76\\res\\drawable\\bga_baseadapter_divider_shape.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\mtrl_snackbar_background.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable\\mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_list_item_bg_with_border_bottom.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_list_item_bg_with_border_bottom.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_border_bottom_inset_left.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_border_bottom_inset_left.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\_xpopup_round3_dark_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\xpopup-1.8.7.aar\\29ef31a7eb30b9d229e780f56b668fea\\res\\drawable\\_xpopup_round3_dark_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_round_orange.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_round_orange.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_small_round_blue1_code_tool.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxFeature-2.3.9.aar\\c95be9569ad23ea18d2941f907739d01\\res\\drawable\\shape_small_round_blue1_code_tool.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_tips_point.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_tips_point.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_border_bottom_inset.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_border_bottom_inset.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_border_top_inset_left_pressed.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_border_top_inset_left_pressed.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\bga_pp_shape_dialog_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\drawable\\bga_pp_shape_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_round_white_3dp.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_round_white_3dp.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_list_item_bg_with_border_top_inset_left.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_list_item_bg_with_border_top_inset_left.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\mtrl_tabs_default_indicator.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable\\mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\3315f3d43fb379b67a94002cbd66c16e\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\ic_mtrl_chip_close_circle.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\gray_radius.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\banner-1.4.10.aar\\20b662a362242695827d287945e2b41b\\res\\drawable\\gray_radius.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_dialog_check_mark.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_dialog_check_mark.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_popup_arrow_up.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_popup_arrow_up.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\comm_titlebar_search_white_shape.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\titlebar-1.1.4.aar\\f7ac0dac05f10aa12e74a5ba6573b5ac\\res\\drawable\\comm_titlebar_search_white_shape.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\animation_loading.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\animation_loading.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_list_item_bg_with_border_bottom_inset_left.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_list_item_bg_with_border_bottom_inset_left.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\comm_titlebar_reback_selector.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\titlebar-1.1.4.aar\\f7ac0dac05f10aa12e74a5ba6573b5ac\\res\\drawable\\comm_titlebar_reback_selector.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_icon_switch.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_icon_switch.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_small_round_theme.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_small_round_theme.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_border_top_inset_left.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_border_top_inset_left.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_round_black.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_round_black.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\rfab__shape_corners_background_label_shadow_normal.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\rfab-2.0.0.aar\\0a6d8446d267803e523ba5ff84b43f89\\res\\drawable\\rfab__shape_corners_background_label_shadow_normal.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\white_radius.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\banner-1.4.10.aar\\20b662a362242695827d287945e2b41b\\res\\drawable\\white_radius.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\rfab__shape_corners_background_label_shadow_pressed.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\rfab-2.0.0.aar\\0a6d8446d267803e523ba5ff84b43f89\\res\\drawable\\rfab__shape_corners_background_label_shadow_pressed.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_edittext_bg_border_bottom.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_edittext_bg_border_bottom.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shadow.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\comm_titlebar_search_gray_shape.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\titlebar-1.1.4.aar\\f7ac0dac05f10aa12e74a5ba6573b5ac\\res\\drawable\\comm_titlebar_search_gray_shape.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\selector_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\selector_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\black_background.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\banner-1.4.10.aar\\20b662a362242695827d287945e2b41b\\res\\drawable\\black_background.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\selector_location.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\selector_location.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_border_top_inset.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_border_top_inset.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_round_white.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_round_white.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\back_white.png",
+        "source": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\src\\main\\res\\drawable\\back_white.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_round_blue_tr_3dp.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_round_blue_tr_3dp.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_divider_bottom_bitmap.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_divider_bottom_bitmap.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\select_search.png",
+        "source": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\src\\main\\res\\drawable\\select_search.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_round_hot_pink.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_round_hot_pink.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_list_item_bg_with_border_bottom_inset.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_list_item_bg_with_border_bottom_inset.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\white_circle_l_shape.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\white_circle_l_shape.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\sample_footer_loading_progress.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\selector_checkbox_sure_cancle.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\selector_checkbox_sure_cancle.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\selector_love.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\selector_love.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\bga_pp_selector_item_folder.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\drawable\\bga_pp_selector_item_folder.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\rfab__shape_corners_background_label_shadow_selector.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\rfab-2.0.0.aar\\0a6d8446d267803e523ba5ff84b43f89\\res\\drawable\\rfab__shape_corners_background_label_shadow_selector.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\selector_white.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\SuperTextView-2.2.4.aar\\0a17aa5018084dd135798eb7c8f25926\\res\\drawable\\selector_white.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\_xpopup_round3_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\xpopup-1.8.7.aar\\29ef31a7eb30b9d229e780f56b668fea\\res\\drawable\\_xpopup_round3_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\comm_titlebar_layout_selector.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\titlebar-1.1.4.aar\\f7ac0dac05f10aa12e74a5ba6573b5ac\\res\\drawable\\comm_titlebar_layout_selector.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_switch_thumb.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_circle_blue.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_circle_blue.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_list_item_bg_with_border_top_inset.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_list_item_bg_with_border_top_inset.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_dialog_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_double_border.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_double_border.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_switch_thumb_checked.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_switch_thumb_checked.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_list_item_bg_with_double_border_pressed.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_list_item_bg_with_double_border_pressed.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\3315f3d43fb379b67a94002cbd66c16e\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\sample_footer_loading.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_small_round_blue.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_small_round_blue.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\no_banner.png",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\banner-1.4.10.aar\\20b662a362242695827d287945e2b41b\\res\\drawable\\no_banner.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\ic_mtrl_chip_checked_black.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\78012fe278bdc5373451fc699afbbb44\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\selector_pickerview_btn.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.8.aar\\5b918c9c70a50009533f3c525491f2d8\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\textview_border.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\textview_border.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\bga_pp_selector_btn_confirm.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\drawable\\bga_pp_selector_btn_confirm.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\comm_titlebar_progress_draw.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\titlebar-1.1.4.aar\\f7ac0dac05f10aa12e74a5ba6573b5ac\\res\\drawable\\comm_titlebar_progress_draw.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_s_list_item_bg_with_border_top.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_s_list_item_bg_with_border_top.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\shape_stroke_gray_5dp.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\RxUI-2.3.9.aar\\ab7663170b01055b870914970e93aeae\\res\\drawable\\shape_stroke_gray_5dp.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\qmui_divider_top_bitmap.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.5.aar\\11c1ec7a91ea2293011c13806b445b8e\\res\\drawable\\qmui_divider_top_bitmap.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dd64f9a1fa58c98a1a8d75f087d591bf\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\bga_baseadapter_white_gray.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-baseadapter-1.2.7.aar\\d8b32340e30a6d4867dc215c007edf76\\res\\drawable\\bga_baseadapter_white_gray.xml"
+    }
+]

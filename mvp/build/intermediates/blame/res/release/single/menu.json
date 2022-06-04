@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\menu\\bga_pp_menu_photo_preview.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\menu\\bga_pp_menu_photo_preview.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\menu\\bga_pp_menu_photo_picker_preview.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\menu\\bga_pp_menu_photo_picker_preview.xml"
+    },
+    {
+        "merged": "E:\\androiddemo\\android_early\\Projects-master\\Projects-master\\mvp\\build\\intermediates\\res\\merged\\release\\menu\\bga_pp_menu_photo_picker.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\4db9bb980a7181cfc6aba57879260201\\res\\menu\\bga_pp_menu_photo_picker.xml"
+    }
+]

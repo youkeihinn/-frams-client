@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:id="@+id/root"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:padding="8dp"
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:layout_alignParentRight="true"
+            android:drawableRight="@mipmap/xjt"
+            android:gravity="center_vertical"
+            android:drawablePadding="@dimen/dp_4"
+            android:layout_height="wrap_content" />
+        <View
+            android:layout_below="@+id/time"
+            android:layout_width="match_parent"
+            android:background="@color/line"
+            android:layout_height="8dp"/>
+    </RelativeLayout>
+
+    <cn.droidlover.xrecyclerview.XRecyclerContentLayout
+        android:layout_below="@+id/root"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/xRecycler"
+        android:background="#F1F1F1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:recyclerBackgroundColor="@color/white"
+        app:recyclerScrollbarNone="true"
+        app:recyclerScrollbarStyle="outsideOverlay" />
+    <include layout="@layout/empty_loading_layout"/>
+
+</RelativeLayout>

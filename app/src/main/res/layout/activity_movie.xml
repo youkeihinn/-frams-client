@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="7dp"
+    android:layout_height="wrap_content">
+    <ScrollView
+        android:layout_marginBottom="110dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/pic"
+            android:layout_width="120dp"
+            android:scaleType="fitXY"
+            android:layout_height="170dp"/>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:orientation="vertical"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/background_dark"
+                    android:text=""
+                    android:textSize="19sp"
+                    android:layout_weight="1"
+
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:id="@+id/score"
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/orange_500"
+                    android:text=""
+                    android:textSize="19sp"
+
+
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_marginTop="8dp"
+                android:layout_width="wrap_content"
+                android:textColor="@color/black_alpha_45"
+                android:text=""
+                android:textSize="13sp"
+                android:layout_weight="1"
+
+                android:layout_height="wrap_content"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/director"
+                    android:layout_marginTop="8dp"
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/black_alpha_45"
+                    android:text=""
+                    android:textSize="13sp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:id="@+id/type"
+                    android:layout_marginTop="8dp"
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/ic_red1"
+                    android:background="@drawable/shape_login_input_rounded_bge"
+                    android:text=""
+                    android:padding="5dp"
+                    android:textSize="10sp"
+                    android:maxLines="1"
+                    android:layout_marginRight="@dimen/dp_10"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/performer"
+                android:layout_marginTop="8dp"
+                android:layout_width="wrap_content"
+                android:textColor="@color/blue_30"
+                android:text=""
+                android:textSize="13sp"
+                android:layout_weight="1"
+
+                android:layout_height="wrap_content"/>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/price"
+                    android:layout_marginTop="8dp"
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/red_btn_normal"
+                    android:text=""
+                    android:textSize="18sp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:id="@+id/con"
+                    android:background="@mipmap/no_co"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_below="@+id/root"
+        android:id="@+id/des"
+        android:layout_marginTop="@dimen/dp_10"
+        android:layout_width="match_parent"
+        android:textSize="18sp"
+
+        android:textColor="@color/text_secondary"
+        android:layout_height="wrap_content"/>
+
+
+    <View
+        android:layout_below="@+id/des"
+        android:layout_marginTop="5dp"
+        android:background="@color/line"
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"/>
+
+
+        <TextView
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:text="评论区"
+            android:textSize="18sp"
+            android:layout_height="wrap_content" />
+
+
+        <LinearLayout
+            android:id="@+id/root"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+
+
+        </LinearLayout>
+
+        <EditText
+            android:textSize="14sp"
+            android:padding="@dimen/dp_10"
+            android:id="@+id/content"
+            android:background="@drawable/shape_button_pure_blue30pxbuttom_notop"
+            android:layout_width="match_parent"
+            android:gravity="top"
+            android:layout_height="150dp" />
+
+
+        <com.allen.library.SuperButton
+            android:id="@+id/btn"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:layout_margin="@dimen/dp_10"
+            android:layout_marginTop="20dp"
+            android:text="评论"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_14"
+            android:layout_alignParentBottom="true"
+            app:sCornersRadius="10dp"
+            app:sGradientCenterColor="@color/focus_text_color"
+            app:sGradientEndColor="@color/sGradientEndColor"
+            app:sSelectorNormalColor="@color/focus_text_color"
+            app:sGradientStartColor="@color/focus_text_color"
+            app:sSelectorPressedColor="@color/sGradientEndColor"
+            app:sUseSelector="true"/>
+    </LinearLayout>
+
+    </ScrollView>
+    <com.allen.library.SuperButton
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_margin="@dimen/dp_10"
+        android:layout_marginTop="20dp"
+        android:text="购买"
+        android:textColor="@color/white"
+        android:textSize="@dimen/sp_14"
+        android:layout_alignParentBottom="true"
+        app:sCornersRadius="10dp"
+        app:sGradientCenterColor="@color/sGradientCenterColor"
+        app:sGradientEndColor="@color/sGradientEndColor"
+        app:sSelectorNormalColor="@color/sGradientStartColor"
+        app:sGradientStartColor="@color/sGradientStartColor"
+        app:sSelectorPressedColor="@color/sGradientEndColor"
+        app:sUseSelector="true"/>
+</RelativeLayout>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:paddingLeft="@dimen/dp_20"
+    android:paddingRight="@dimen/dp_20"
+    android:background="@mipmap/bg_layout_activity_login_whole"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_marginTop="@dimen/dp_40"
+        android:layout_width="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="30dp"
+            android:background="@mipmap/login_back"
+            android:layout_height="30dp" />
+
+    </LinearLayout>
+
+    <TextView
+
+        android:layout_marginTop="25dp"
+        android:layout_width="wrap_content"
+        android:text="注册"
+        android:textSize="26sp"
+        android:textColor="@color/white"
+        android:layout_height="wrap_content" />
+
+
+    <EditText
+        android:id="@+id/tv_phone"
+        android:layout_marginTop="50dp"
+        android:background="@null"
+        android:hint="请输入注册工号"
+        android:textColor="@color/white"
+        android:maxLength="11"
+        android:padding="5dp"
+        android:textColorHint="@color/white_80"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_marginTop="@dimen/dp_10"
+        android:background="@color/white_80"
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"/>
+
+
+    <LinearLayout
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/tv_name"
+            android:background="@null"
+            android:hint="请输入姓名"
+            android:padding="5dp"
+            android:textColorHint="@color/white_80"
+            android:layout_width="0dp"
+            android:textColor="@color/white"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_marginTop="@dimen/dp_10"
+        android:background="@color/white_80"
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"/>
+
+    <LinearLayout
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/tv_password"
+            android:background="@null"
+            android:hint="请输入密码"
+            android:padding="5dp"
+            android:textColorHint="@color/white_80"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textColor="@color/white"
+            android:inputType="textPassword"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_marginTop="@dimen/dp_10"
+        android:background="@color/white_80"
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"/>
+
+    <com.allen.library.SuperButton
+        android:id="@+id/btn_register"
+        android:layout_marginTop="@dimen/dp_25"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="注册"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        app:sCornersRadius="2dp"
+        app:sSelectorNormalColor="#9f4D82F6"
+        app:sSelectorPressedColor="#4D82F6"
+        app:sUseSelector="true" />
+
+
+
+</LinearLayout>

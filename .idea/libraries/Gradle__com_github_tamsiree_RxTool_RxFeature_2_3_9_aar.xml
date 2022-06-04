@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tamsiree.RxTool:RxFeature:2.3.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RxFeature-2.3.9.aar/6603c3ce1313dca91e04c280554a886c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RxFeature-2.3.9.aar/6603c3ce1313dca91e04c280554a886c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RxFeature-2.3.9.aar/6603c3ce1313dca91e04c280554a886c/jars/libs/alipaySdk-20180403.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tamsiree.RxTool/RxFeature/2.3.9/47d324161e7240f15ec3590ca096d34ffdd79a08/RxFeature-2.3.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

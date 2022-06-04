@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:visibility="gone"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:paddingLeft="@dimen/dp_10"
+            android:textCursorDrawable="@null"
+            android:textSize="15sp"
+
+            android:background="@drawable/shape_button_pure_blue30pxbuttom_notop"
+            android:layout_height="35dp"/>
+
+        <ImageView
+            android:id="@+id/btn"
+            android:background="@mipmap/order_search"
+            android:layout_width="40dp"
+            android:layout_height="38dp"/>
+
+    </LinearLayout>
+    <cn.droidlover.xrecyclerview.XRecyclerContentLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/xRecycler"
+        android:background="#F1F1F1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:recyclerBackgroundColor="@color/white"
+        app:recyclerScrollbarNone="true"
+        app:recyclerScrollbarStyle="outsideOverlay" />
+
+    <include layout="@layout/empty_loading_layout"/>
+
+</LinearLayout>

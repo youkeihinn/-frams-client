@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_below="@+id/titlebar"
+        android:id="@+id/root"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/et_nam"
+            android:drawableLeft="@drawable/select_search"
+            android:drawablePadding="@dimen/dp_10"
+            android:padding="@dimen/dp_10"
+            android:textCursorDrawable="@null"
+            android:hint="请输入岗位名称"
+            android:textSize="15sp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:layout_height="wrap_content" />
+        <com.allen.library.SuperButton
+            android:id="@+id/btn_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="查询"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            app:sCornersRadius="2dp"
+            app:sSelectorNormalColor="@color/ic_taobao"
+            app:sSelectorPressedColor="#4D82F6"
+            app:sUseSelector="true" />
+    </LinearLayout>
+    <View
+        android:layout_below="@+id/root"
+        android:id="@+id/rrot"
+        android:layout_width="match_parent"
+        android:background="@color/line"
+        android:layout_height="0.1dp"/>
+    <cn.droidlover.xrecyclerview.XRecyclerContentLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/xRecycler"
+        android:background="#F1F1F1"
+        android:layout_below="@+id/rrot"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:recyclerBackgroundColor="@color/white"
+        app:recyclerScrollbarNone="true"
+        app:recyclerScrollbarStyle="outsideOverlay" />
+
+
+
+</RelativeLayout>

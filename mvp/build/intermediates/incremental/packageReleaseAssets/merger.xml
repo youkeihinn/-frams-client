@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\androiddemo\android_early\Projects-master\Projects-master\mvp\src\main\assets"/><source path="E:\androiddemo\android_early\Projects-master\Projects-master\mvp\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\androiddemo\android_early\Projects-master\Projects-master\mvp\src\release\assets"/></dataSet></merger>
